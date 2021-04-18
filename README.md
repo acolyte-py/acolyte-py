@@ -10,6 +10,9 @@
 ![SQL](https://img.shields.io/badge/SQL-145a5a?style=for-the-badge&logo=mysql&logoColor=09fbf8)
 
 
-Мои контакты
+### Мои контакты
+[![vkontakte](https://img.shields.io/badge/vkontakte-145a5a?style=for-the-badge&logo=VK&logoColor=0079f5)](https://vk.com/spikedt)
 
-Моё любимое занятие по мимо работы, это World of Warcraft и все, что с ним связанно
+Моё любимое занятие по мимо работы, это World of Warcraft и все, что с ним связанно. Можем поиграть вместе.
+
+[![sirus](https://img.shields.io/badge/sirus-145a5a?style=for-the-badge&logo=sirus&logoColor=0079f5)](https://sirus.su/#/)
