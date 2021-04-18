@@ -1,4 +1,4 @@
-[![Header]https://github.com/acolyte-py/acolyte-py/blob/main/assets/giphy.gif?raw=true]
+[![Header]]
 
 Обо мне 
 
