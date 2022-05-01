@@ -11,7 +11,7 @@
 
 
 ### Мои контакты:
-[![vkontakte](https://img.shields.io/badge/vkontakte-145a5a?style=for-the-badge&logo=VK&logoColor=0079f5)](https://vk.com/spikedt)
+[![vkontakte](https://img.shields.io/badge/vkontakte-145a5a?style=for-the-badge&logo=VK&logoColor=0079f5)](https://vk.com/id706965648)
 
 Моё любимое занятие по мимо работы, это World of Warcraft и все, что с ним связанно. Можем поиграть вместе.
 
